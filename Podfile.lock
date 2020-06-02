@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.8.2)
+  - ARCL (1.2.0)
+  - SkyFloatingLabelTextField (3.7.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - ARCL
+  - SkyFloatingLabelTextField
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ARCL
+    - SkyFloatingLabelTextField
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  ARCL: c33685a61647ceeb1cb768b20053a7a8e1e2b261
+  SkyFloatingLabelTextField: 4b46db0ab1ccde0919cded29c656e6b4805eda04
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: c8d6c3b9e7357a1fd53b346880e59ee98e0440cf
+
+COCOAPODS: 1.5.3
